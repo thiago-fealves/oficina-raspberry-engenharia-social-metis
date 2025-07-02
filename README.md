@@ -18,7 +18,7 @@ Você pode instalar tudo via um ambiente virtual.
 ```bash
 # 1. Clone o repositório e entre na pasta
 git clone https://github.com/thiago-fealves/oficina-raspberry-engenharia-social-metis.git
-cd keylogger
+cd oficina-raspberry-engenharia-social-metis
 
 # 2. Crie e ative o ambiente virtual
 python3 -m venv garbo-venv
