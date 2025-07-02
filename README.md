@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Garbo Keylogger
 
-Ferramenta simples que gera um keylogger para a oficina em formato de um aplicativo de bloco de notas falso, essa ferramenta só deve ser utilizada para testes em ambientes controlados com fins educacionais e éticos, não nos resposabilizamos por qualquer mau uso decorrente desse repositório
+Ferramenta simples que gera o binário de um keylogger para a oficina em formato de um aplicativo de bloco de notas falso, essa ferramenta só deve ser utilizada para testes em ambientes controlados com fins educacionais e éticos, não nos resposabilizamos por qualquer mau uso decorrente desse repositório
 
 ---
 
