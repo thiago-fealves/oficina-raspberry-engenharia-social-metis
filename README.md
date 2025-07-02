@@ -17,7 +17,7 @@ Você pode instalar tudo via um ambiente virtual.
 
 ```bash
 # 1. Clone o repositório e entre na pasta
-git clone 
+git clone https://github.com/thiago-fealves/oficina-raspberry-engenharia-social-metis.git
 cd keylogger
 
 # 2. Crie e ative o ambiente virtual
